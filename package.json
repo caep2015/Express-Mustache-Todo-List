@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "express-validator": "^3.2.1",
-    "express-mustache": "^1.0.3"
+    "body-parser": "^1.17.2",
+    "express-mustache": "^1.0.3",
+    "express-validator": "^3.2.1"
   },
   "devDependencies": {},
   "scripts": {
