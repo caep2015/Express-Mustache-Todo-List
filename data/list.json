@@ -1,0 +1,8 @@
+{
+  "items":
+  [
+    {"id": 0, "item": "Rise at 05:45", "completed": false },
+    {"id": 1, "item": "Commute to The Iron Yard", "completed": false },
+    {"id": 2, "item": "Learn Sofware Development Skills from 09:00-05:00", "completed": false }
+  ]
+}
