@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.17.2",
+    "express": "^4.15.3",
     "express-mustache": "^1.0.3",
     "express-validator": "^3.2.1"
   },
