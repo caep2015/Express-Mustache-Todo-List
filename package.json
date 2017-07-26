@@ -1,0 +1,24 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express-validator": "^3.2.1",
+    "express-mustache": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caep2015/Express-Mustache-Todo-List.git"
+  },
+  "author": "Carlota Pearl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caep2015/Express-Mustache-Todo-List/issues"
+  },
+  "homepage": "https://github.com/caep2015/Express-Mustache-Todo-List#readme"
+}
