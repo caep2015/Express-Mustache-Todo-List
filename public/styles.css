@@ -25,7 +25,8 @@ form {
 input[type="text"] {
   font-family: 'Work Sans', Arial, Helvetica, sans-serif;
   font-size: 1em;
-  width: 80%;
+  width: 20%;
+  margin-right: 50%;
 }
 
 .completed-item {
