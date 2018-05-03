@@ -18,3 +18,6 @@ Because your data is being stored in memory, it will disappear every time your a
 Hard Mode
 Consider a way to persist your data permanently so that you can stop and start your app without losing your todos. jsonfile is one option.
 
+Screenshot of my finished app:
+
+![mock up screen shot](https://github.com/carlotapearl/Express-Mustache-Todo-List/blob/master/todolist.png)
